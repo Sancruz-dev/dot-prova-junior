@@ -1,0 +1,38 @@
+.sec-one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-bottom: 3rem;
+  gap: 2rem;
+}
+
+.sec-one__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 380px;
+}
+
+.container__art {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+  gap: .5rem;
+}
+
+.art__img {
+  max-width: 20rem;
+  border: .6rem solid var(--box-color);
+}
+
+.art__title {
+  text-transform: uppercase;
+}
+
+.art__desc {
+  text-align: center;
+  font-weight: 400;
+  padding: .7rem 3rem;
+}

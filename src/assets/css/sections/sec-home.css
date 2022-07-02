@@ -1,0 +1,32 @@
+.sec-home__header {
+  position: absolute;
+  padding: 2rem 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 100;
+}
+
+.header__title
+{
+  color: var(--aux-color);
+  font-size: 3.75em;
+  font-weight: medium;
+  text-transform: uppercase;
+}
+
+.header__subtitle
+{
+  color: var(--aux-sec-color);
+  font-weight: normal;
+  font-size: 1.55em;
+  text-align: center;
+}
+
+.home__banner
+{
+  width: 100%;
+  background-size: contain;
+}
