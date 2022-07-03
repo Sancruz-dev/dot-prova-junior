@@ -56,7 +56,7 @@ Estão disponíveis para uso as seguintes **tasks**: <br/>
 
 <br/>
 
-### Solução o erro "primordials"
+### Solução para "primordials error"
 
 Caso apareça o erro ***"ReferenceError: primordials is not defined"*** ao executar alguma **task**, realize três simples passos:
 
