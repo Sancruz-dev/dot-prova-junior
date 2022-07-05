@@ -58,7 +58,7 @@ Estão disponíveis para uso as seguintes **tasks**: <br/>
 
 ## Performance
 
-Como está sendo utilizada uma ferramenta tão poderosa como o Gulp Js, não deixarei de lado os resultados de seu uso:
+Como forma de mostrar o quão poderoso é o Gulp Js, logo abaixo estão os resultados de seu uso dentro do sistema:
 
 <img 
   style="max-height: 28rem"
