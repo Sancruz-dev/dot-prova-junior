@@ -1,20 +1,20 @@
 const
-  gulp = require('gulp'),
-  { series } = require('gulp'),
-  plumber = require('gulp-plumber'),
-  uglify = require('gulp-uglify'),
-  concat = require('gulp-concat'),
-  rename = require('gulp-rename'),
-  clean = require('gulp-clean'),
-  htmlmin = require('gulp-htmlmin'),
-  cleanCss = require('gulp-clean-css'),
-  inject = require('gulp-inject'),
-  tinypng = require('gulp-tinypng-compress'),
-  imagemin = require('gulp-imagemin'),
   autoprefixer = require('gulp-autoprefixer'),
-  sourcemaps = require('gulp-sourcemaps'),
   babel = require('gulp-babel'),
-  es = require('event-stream');
+  clean = require('gulp-clean'),
+  cleanCss = require('gulp-clean-css'),
+  concat = require('gulp-concat'),
+  es = require('event-stream'),
+  gulp = require('gulp'),
+  htmlmin = require('gulp-htmlmin'),
+  imagemin = require('gulp-imagemin'),
+  inject = require('gulp-inject'),
+  plumber = require('gulp-plumber'),
+  rename = require('gulp-rename'),
+  sourcemaps = require('gulp-sourcemaps'),
+  tinypng = require('gulp-tinypng-compress'),
+  uglify = require('gulp-uglify'),
+  { series } = require('gulp');
 
 
 // SOUCE PATH ------
