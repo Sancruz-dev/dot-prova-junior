@@ -1,7 +1,7 @@
 {
   "name": "prova-frontend-junior",
   "version": "1.0.0",
-  "description": "Provra da DOT Digital Group - nível júnior",
+  "description": "Prova da DOT Digital Group - nível júnior",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,7 +28,7 @@
     "gulp-plumber": "^1.2.1",
     "gulp-rename": "^2.0.0",
     "gulp-sourcemaps": "^3.0.0",
-    "gulp-tinypng": "^1.0.2",
+    "gulp-tinypng-compress": "^1.2.5",
     "gulp-uglify": "^3.0.2"
   },
   "bugs": {
